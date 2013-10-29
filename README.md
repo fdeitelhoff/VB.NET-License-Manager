@@ -6,3 +6,5 @@ This is an extended port of the C# License Manager, that was introduced in the d
 This port shows, how Portable.Licensing can be used in Visual Basic .NET.
 
 Thanks to Thorsten Weiﬂ (weiss.thorsten@gmx.de) for this work!
+
+![Portable.Licensing Demo](http://www.fabiandeitelhoff.de/wp-content/uploads/2013/10/Portable.Licensing-Demo.png)
